@@ -171,14 +171,12 @@ graph LR
 
 
 ### 1. Workload-Based Adjustments Table
-```markdown
-### Workload-Based Adjustments
 | Work Intensity | Daily Target | Weekend Action |
 |----------------|-------------|---------------|
 | High Pressure  | 30-min MDN reading | Rest |
 | Normal Load    | 60-min coding | Project work |
 | Light Week     | 90-min deep dive | Hackathon |
-```
+
 ### 2. Burnout Prevention
 ```markdown
 - Every Sunday = NO CODE DAY
